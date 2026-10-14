@@ -30,6 +30,12 @@ This project was built to master advanced Unity programming concepts and C# soft
 
 ## 🚀 How to Play / Install
 
+### 🌐 Play in Browser
+Don't want to download the project? You can play the WebGL build directly in your browser:
+
+[![Play Live Demo](https://img.shields.io/badge/Play_Live_Demo-itch.io-FA5C5C?style=for-the-badge&logo=itch.io)](https://abelrahmanmoawad.itch.io/kitchen-chaos)
+
+### 💻 Local Installation
 1. Clone the repository:
    ```bash
    git clone [https://github.com/AbdelrahmanMoawad/KitchenChaos.git](https://github.com/AbdelrahmanMoawad/KitchenChaos.git)
